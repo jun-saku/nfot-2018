@@ -1,3 +1,8 @@
+* {
+	transition: 0s all;
+	-moz-transition: 0s all;
+	-webkit-transition: 0s all;
+}
 
 body {
 	width: 100%;
